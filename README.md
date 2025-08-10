@@ -6,6 +6,9 @@
   - [why i started coding](https://loveola.github.io/evol.com/index.html)
 - <b>some of my edits</b>
   - [My wednesday edit](https://www.tiktok.com/@evol_ve7/video/7172841889182256390?_r=1&_t=ZM-8ylYUIEx2yj) <b>
+  - [Marvel edit](https://vm.tiktok.com/ZMAJBkg1K/) <b>
+  - [Anime edit](https://vm.tiktok.com/ZMAJBADDW/) <b>
+  
 - <b>One of my freelance project</b>
   - [Heritage counselling initiative NGO](https://loveola.github.io/heritagecounsellinginitiative/)
   
