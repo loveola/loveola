@@ -3,24 +3,16 @@
 <h2>👨‍💻 My front end devlopment projects</h2>
 
 - <b>My frist ever website</b>
-  - [why i started coding](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [why i started coding](https://loveola.github.io/evol.com/index.html)
+- <b>some of my edits</b>
+  - [My wednesday edit](https://www.tiktok.com/@evol_ve7/video/7172841889182256390?_r=1&_t=ZM-8ylYUIEx2yj) <b>
+- <b>One of my freelance project</b>
+  - [Heritage counselling initiative NGO](https://loveola.github.io/heritagecounsellinginitiative/)
+  
+- <b>some of my clone projects </b>
+  - [Netflix homepage](https://loveola.github.io/neflix-homepage/)
+  - [Albert einstein tribute page](https://loveola.github.io/tribute-page/)
+  - [login page](https://loveola.github.io/loginform/)
 
 <h2> 🤳 Connect with me:</h2>
 
